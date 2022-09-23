@@ -1,5 +1,5 @@
 body {
-    background-image: url(/public/images/city-dark.jpg);
+    background: url(/public/images/city-dark.jpg) fixed;
 }
 
 .animated {
