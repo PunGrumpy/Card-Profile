@@ -11,14 +11,14 @@ git clone {this.repo}
 cd card-profile
 ```
 
-![Card](./thumnail/thumbnail-card.png)
-
 ## Available Scripts
 
 In the project directory, you can run:
 
 [Live Server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
+![Card](./thumnail/thumbnail-card.png)
+
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](LICENSE)
