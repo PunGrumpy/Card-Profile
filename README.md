@@ -1,4 +1,4 @@
-# Card Profile [![Netlify Status](https://api.netlify.com/api/v1/badges/61644e25-14f3-4efb-a342-976f72adf19d/deploy-status)](https://app.netlify.com/sites/spiffy-dasik-a405b5/deploys)
+# Card Profile [![Netlify Status](https://api.netlify.com/api/v1/badges/61644e25-14f3-4efb-a342-976f72adf19d/deploy-status)](https://app.netlify.com/sites/pun-grumpy-cardprofile/deploys)
 
 This is a simple card profile page. It's built with [Tailwind CSS](https://tailwindcss.com/).
 
