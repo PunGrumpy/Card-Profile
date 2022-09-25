@@ -13,6 +13,6 @@
     },
     "scripts": {
         "dev": "parcel index.html",
-        "build": "parcel build index.html"
+        "build": "parcel build index.html && npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
     }
 }
